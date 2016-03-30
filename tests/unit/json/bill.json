@@ -1,0 +1,115 @@
+{
+ "bill_resolution_type": "resolution", 
+ "bill_type": "house_resolution", 
+ "bill_type_label": "H.Res.", 
+ "committees": [], 
+ "congress": 112, 
+ "cosponsors": [], 
+ "current_status": "passed_simpleres", 
+ "current_status_date": "2011-01-05", 
+ "current_status_description": "This simple resolution was agreed to on January 5, 2011. That is the end of the legislative process for a simple resolution.", 
+ "current_status_label": "Agreed To (Simple Resolution)", 
+ "display_number": "H.Res. 1", 
+ "docs_house_gov_postdate": null, 
+ "id": 76416, 
+ "introduced_date": "2011-01-05", 
+ "is_alive": false, 
+ "is_current": false, 
+ "link": "https://www.govtrack.us/congress/bills/112/hres1", 
+ "lock_title": false, 
+ "major_actions": [
+  [
+   "datetime.datetime(2011, 1, 5, 14, 29)", 
+   6, 
+   "On agreeing to the resolution Agreed to by voice vote.", 
+   "<vote how=\"by voice vote\" type=\"vote\" datetime=\"2011-01-05T14:29:00-05:00\" where=\"h\" result=\"pass\" state=\"PASSED:SIMPLERES\">\n      <text>On agreeing to the resolution Agreed to by voice vote.</text>\n      <reference ref=\"CR H6\" label=\"text\"/>\n    </vote>\n    "
+  ]
+ ], 
+ "noun": "resolution", 
+ "number": 1, 
+ "senate_floor_schedule_postdate": null, 
+ "sliplawnum": null, 
+ "sliplawpubpriv": null, 
+ "source": "thomas-congproj", 
+ "source_link": null, 
+ "sponsor": {
+  "bioguideid": "H001036", 
+  "birthday": "1957-05-29", 
+  "cspanid": 1003619, 
+  "firstname": "Jeb", 
+  "gender": "male", 
+  "gender_label": "Male", 
+  "id": 400175, 
+  "lastname": "Hensarling", 
+  "link": "https://www.govtrack.us/congress/members/jeb_hensarling/400175", 
+  "middlename": "", 
+  "name": "Rep. Jeb Hensarling [R-TX5]", 
+  "namemod": "", 
+  "nickname": "", 
+  "osid": "N00024922", 
+  "pvsid": "49827", 
+  "sortname": "Hensarling, Jeb (Rep.) [R-TX5]", 
+  "twitterid": "RepHensarling", 
+  "youtubeid": "repjebhensarling"
+ }, 
+ "sponsor_role": {
+  "caucus": null, 
+  "congress_numbers": [
+   112
+  ], 
+  "current": false, 
+  "description": "Representative for Texas's 5th congressional district", 
+  "district": 5, 
+  "enddate": "2013-01-03", 
+  "extra": {
+   "address": "129 Cannon HOB; Washington DC 20515-4305", 
+   "contact_form": "http://www.house.gov/hensarling/contact_web.shtml", 
+   "fax": "202-226-4888", 
+   "office": "129 Cannon House Office Building"
+  }, 
+  "id": 1421, 
+  "leadership_title": null, 
+  "party": "Republican", 
+  "person": 400175, 
+  "phone": "202-225-3484", 
+  "role_type": "representative", 
+  "role_type_label": "Representative", 
+  "senator_class": null, 
+  "senator_rank": null, 
+  "startdate": "2011-01-05", 
+  "state": "TX", 
+  "title": "Rep.", 
+  "title_long": "Representative", 
+  "website": "http://www.house.gov/hensarling"
+ }, 
+ "terms": [
+  {
+   "id": 5938, 
+   "name": "Congress", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 5944, 
+   "name": "Congressional officers and employees", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }, 
+  {
+   "id": 5947, 
+   "name": "House of Representatives", 
+   "term_type": "new", 
+   "term_type_label": "New"
+  }
+ ], 
+ "thomas_link": "http://thomas.loc.gov/cgi-bin/bdquery/z?d112:hres1:", 
+ "title": "H.Res. 1 (112th): Electing officers of the House of Representatives.", 
+ "title_without_number": "Electing officers of the House of Representatives.", 
+ "titles": [
+  [
+   "official", 
+   "introduced", 
+   "Electing officers of the House of Representatives."
+  ]
+ ]
+}
